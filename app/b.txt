@@ -1,0 +1,19 @@
+app/
+    constants.js
+    sitemap.xml/
+        route.js
+    sitemaps/
+        general/
+            sitemap.js
+        articles/
+            sitemap.js
+
+app/
+    articles/
+        data.js
+        page.jsx
+        [id]/
+            page.jsx
+
+app/
+    robots.js
